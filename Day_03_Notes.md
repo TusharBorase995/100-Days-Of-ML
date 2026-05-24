@@ -85,6 +85,7 @@ In Unsupervised Learning, the dataset provided to the algorithm has **Inputs onl
   * Training a dog (give a treat for sitting, scold for biting).
   * Self-Driving Cars learning to navigate simulations.
   * **AlphaGo by DeepMind:** An RL agent that defeated the world champion in the highly complex board game 'Go'.
+<img width="421" height="359" alt="image" src="https://github.com/user-attachments/assets/705c2bf0-9e2b-438a-bf5b-e554846ad31d" />
 
 ---
 
