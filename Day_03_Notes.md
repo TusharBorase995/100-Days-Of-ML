@@ -88,9 +88,3 @@ In Unsupervised Learning, the dataset provided to the algorithm has **Inputs onl
 
 ---
 
-### Verification Checklist for GitHub Repository
-- [x] Categorized ML based on the amount of supervision.
-- [x] Defined Supervised Learning and distinguished between Regression and Classification based on data types.
-- [x] Detailed the 4 core sub-techniques of Unsupervised Learning (Clustering, PCA, Anomaly, Association).
-- [x] Explained the cost-saving benefit of Semi-Supervised Learning using the Google Photos example.
-- [x] Documented the Agent-Environment reward loop logic of Reinforcement Learning.
